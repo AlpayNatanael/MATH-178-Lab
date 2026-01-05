@@ -2,9 +2,8 @@
 
 Lab hours: TBD
 
-Office hours: TBF
+Office hours: TBD
 
-YOU ARE ENCOURAGED TO MAKE FRIENDS IN CLASS :)
 You are encouraged to make friends in the class, and can work in pairs on the labs and final project. (Up to 2 per assignment) 
 
 ### Lab Schedule:
