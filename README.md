@@ -1,4 +1,4 @@
-# MATH-178-Machine Learning (Lab)
+# MATH 178 Machine Learning (Lab)
 
 Lab hours: TBD
 
