@@ -5,6 +5,7 @@ Lab hours: TBD
 Office hours: TBF
 
 YOU ARE ENCOURAGED TO MAKE FRIENDS IN CLASS :)
+You are encouraged to make friends in the class, and can work in pairs on the labs and final project. (Up to 2 per assignment) 
 
 ### Lab Schedule:
 - Lab 1 due end of week 2
@@ -19,3 +20,7 @@ Labs can be found under **/labs** folder. Solutions will be posted under **/labs
 - Final project due end of week 11
 
 *Quiz and homework schedule can be found on the Canvas page.*
+
+
+### Extra resources 
+- To be added as we go.
