@@ -12,6 +12,8 @@ YOU ARE ENCOURAGED TO MAKE FRIENDS IN CLASS :)
 - lab 3 due end of week 6
 - lab 4 due end of week 8
 
+Labs can be found under **/labs** folder. Solutions will be posted under **/labs-sols** the day after the deadline, *therefore no late labs are accepted*.  
+
 ### Final Project
 - Presentation/code check Friday, March 20, 8-10 am
 - Final project due end of week 11
