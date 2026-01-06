@@ -32,3 +32,6 @@ You are encouraged to use AI creatively. Please explain how and why AI was utili
 
 ### Extra resources 
 - To be added as we go.
+
+
+*To be subject to changes.
