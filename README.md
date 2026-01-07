@@ -6,6 +6,11 @@ Office hours: TBD
 
 You are encouraged to make friends in the class, and can work in pairs on the labs and final project. (Up to 2 per assignment) 
 
+
+### Getting started
+The lab portion will consist of writting code and running special function defined in various packages. To this end see the **GettingStarted.md** file to help set up all u need.
+
+
 ### Lab Schedule:
 - Lab 1 due end of week 2
 - lab 2 due end of week 4
