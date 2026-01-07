@@ -161,7 +161,3 @@ or
 python -m pip install --user numpy pandas altair scikit-learn
 ```
 
-```
-
-If you want, I can also format this as a slightly more “student-proof” checklist (with Windows/macOS sections separated), but this version is already solid for a Getting Started page.
-```
