@@ -8,7 +8,7 @@ Google Colab is a free online notebook environment that runs in your browser.
 - Colab is a great option for Lab 1 because it works immediately (no installation needed).
 - Colab has limited computing resources, but that should **not** be an issue for our class labs and projects.
 
-  ### I have uploaded Lab 1 to collab for you, so all you need to do is go to the following link, and make a copy for yourself (in your google drive): (Collab)[https://colab.research.google.com/drive/1pcs7VSt_2RsNQgB_L9SgHCSLKjpJSaft?usp=sharing
+  ### I have uploaded Lab 1 to collab for you, so all you need to do is go to the following link, and make a copy for yourself (in your google drive):[https://colab.research.google.com/drive/1pcs7VSt_2RsNQgB_L9SgHCSLKjpJSaft?usp=sharing
 
 ## Option 2: Run locally on your computer
 Running locally means installing Python, Jupyter Notebook, and the required packages on your machine.
