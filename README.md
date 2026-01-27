@@ -1,8 +1,10 @@
 # MATH 178 Machine Learning (Lab)
 
-Lab hours: TBD
+Lab hours: Tuesday 1-2pm ALP 3610
 
-Office hours: TBD
+Office hours: Thursday 1-2pm RH 440V 
+
+Discussion: Tuesday/Thursday MSTB 122
 
 You are encouraged to make friends in the class, and can work in pairs on the labs and final project. (Up to 2 per assignment) 
 
