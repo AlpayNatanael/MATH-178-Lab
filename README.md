@@ -29,7 +29,7 @@ Labs can be found under **/labs** folder. Solutions will be posted under **/labs
 
 The final project should be completed in single or pairs. It is a great opportunity to apply the techniques you have learned in class to a real-world dataset.
 
-### Project objectives -
+### Project objectives 
 - Prepare your selected dataset.
 - Apply appropriate supervised learning techniques.
 - Optionally, apply advanced techniques such as Deep Learning or Decision Trees.
