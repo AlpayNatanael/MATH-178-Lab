@@ -24,7 +24,7 @@ The lab portion will consist of writting code and running special function defin
 Labs can be found under **/labs** folder. Solutions will be posted under **/labs-sols** the day after the deadline, *therefore no late labs are accepted*.  
 
 ## Final Project
-- A 10-minute presentation/code check Friday, March 20, 8-10 am
+- A 5-minute presentation/code check Friday, March 20, 8-10 am
 - Final project due end of week 11
 
 The final project should be completed in single or pairs. It is a great opportunity to apply the techniques you have learned in class to a real-world dataset.
