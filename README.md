@@ -37,7 +37,7 @@ The final project should be completed in single or pairs. It is a great opportun
 - Present your findings in a clear and organized report.
 
 ###  Dataset selection
-Choose a dataset from the [UCI DATA SET]{https://archive.ics.uci.edu/}
+Choose a dataset from the [UCI DATA SET](https://archive.ics.uci.edu/)
 
 Some recommended datasets to consider:
 - Iris
